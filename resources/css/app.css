@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.h-25 {
+    height: 7rem;
+}
+.w-55 {
+    width: 15rem;
+}
+.display-unset{
+    display: unset;
+}
+.height-hundred{
+    height: 100px;
+}
